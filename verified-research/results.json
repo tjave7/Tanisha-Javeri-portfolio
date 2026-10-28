@@ -1,0 +1,20 @@
+{
+  "observations": 24,
+  "months": "2024-10 to 2026-09",
+  "mean_2025": 1.185,
+  "mean_2026_jan_sep": 1.234,
+  "short_period_trend_c_per_year": -0.011,
+  "ml_test_months": [
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09"
+  ],
+  "ridge_mae_c": 0.094,
+  "baseline_mae_c": 0.083,
+  "mars_temp_difference_c": -80,
+  "mars_pressure_pct_earth_low": 0.592,
+  "mars_pressure_pct_earth_high": 0.987
+}

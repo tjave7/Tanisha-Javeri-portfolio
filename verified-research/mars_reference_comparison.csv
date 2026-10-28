@@ -1,0 +1,6 @@
+planet,metric,value,unit,source_note
+Mars,mean surface temperature,-65,C,NASA Solar System Temperatures
+Earth,mean surface temperature,15,C,NASA Solar System Temperatures
+Mars,pressure lower published bound,6,mbar,NASA Wind Flow
+Mars,pressure upper published bound,10,mbar,NASA Wind Flow
+Earth,reference sea level pressure,1013.25,mbar,standard reference; not site measurement
